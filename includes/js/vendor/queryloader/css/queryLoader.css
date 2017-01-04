@@ -1,0 +1,30 @@
+.QOverlay {
+	background-color: #000000;
+	z-index: 9999;
+	height: 0px !important;
+}
+
+.QLoader {
+	background-color: #ED1C24;
+	height: 3px;
+}
+
+.loading-overlay{
+	height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    position: absolute;
+    background: rgba(0,0,0,0.95);
+    /*background: rgba(255,255,255,0.95);*/
+    overflow: hidden;
+}
+
+#wrapper-loading {
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    top: 40%;
+    left: 47%;
+    z-index: 99999 !important;
+} 

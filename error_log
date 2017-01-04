@@ -1,0 +1,65 @@
+[22-Nov-2016 05:43:14 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/virusserver/public_html/moldex/application/views/templates/default/index.php on line 10
+[22-Nov-2016 05:45:23 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/virusserver/public_html/moldex/application/views/templates/default/index.php on line 10
+[22-Nov-2016 05:45:26 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/virusserver/public_html/moldex/application/views/templates/default/index.php on line 10
+[22-Nov-2016 05:45:27 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/virusserver/public_html/moldex/application/views/templates/default/index.php on line 10
+[22-Nov-2016 05:46:42 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/virusserver/public_html/moldex/application/views/templates/default/index.php on line 10
+[22-Nov-2016 05:47:58 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/virusserver/public_html/moldex/application/views/templates/default/index.php on line 10
+[28-Nov-2016 15:16:32 Asia/Manila] PHP Fatal error:  Call to a member function set_items() on a non-object in /home/virusserver/public_html/moldex/application/controllers/administrator.php on line 161
+[28-Nov-2016 15:30:06 Asia/Manila] PHP Fatal error:  Call to undefined function module_menu() in /home/virusserver/public_html/moldex/application/views/templates/default/index.php on line 58
+[28-Nov-2016 15:31:12 Asia/Manila] PHP Fatal error:  Call to undefined function module_menu() in /home/virusserver/public_html/moldex/application/views/templates/default/index.php on line 58
+[28-Nov-2016 15:31:56 Asia/Manila] PHP Fatal error:  Call to undefined function module_menu() in /home/virusserver/public_html/moldex/application/views/templates/default/index.php on line 58
+[28-Nov-2016 15:31:59 Asia/Manila] PHP Fatal error:  Call to undefined function module_menu() in /home/virusserver/public_html/moldex/application/views/templates/default/index.php on line 58
+[01-Dec-2016 10:06:07 Asia/Manila] PHP Fatal error:  Call to a member function get_menu_by_alias() on a non-object in /home/virusserver/public_html/moldex/application/controllers/main.php on line 17
+[01-Dec-2016 10:32:17 Asia/Manila] PHP Fatal error:  Call to a member function get_menu_by_alias() on a non-object in /home/virusserver/public_html/moldex/application/controllers/main.php on line 17
+[01-Dec-2016 10:35:45 Asia/Manila] PHP Fatal error:  Call to a member function get_menu_by_alias() on a non-object in /home/virusserver/public_html/moldex/application/controllers/main.php on line 17
+[01-Dec-2016 10:35:49 Asia/Manila] PHP Fatal error:  Call to a member function get_menu_by_alias() on a non-object in /home/virusserver/public_html/moldex/application/controllers/main.php on line 17
+[01-Dec-2016 10:37:24 Asia/Manila] PHP Fatal error:  Call to a member function get_menu_by_alias() on a non-object in /home/virusserver/public_html/moldex/application/controllers/main.php on line 17
+[01-Dec-2016 10:37:28 Asia/Manila] PHP Fatal error:  Call to a member function get_menu_by_alias() on a non-object in /home/virusserver/public_html/moldex/application/controllers/main.php on line 17
+[01-Dec-2016 10:37:31 Asia/Manila] PHP Fatal error:  Call to a member function get_menu_by_alias() on a non-object in /home/virusserver/public_html/moldex/application/controllers/main.php on line 17
+[01-Dec-2016 10:38:01 Asia/Manila] PHP Fatal error:  Call to a member function get_menu_by_alias() on a non-object in /home/virusserver/public_html/moldex/application/controllers/main.php on line 17
+[01-Dec-2016 10:38:04 Asia/Manila] PHP Fatal error:  Call to a member function get_menu_by_alias() on a non-object in /home/virusserver/public_html/moldex/application/controllers/main.php on line 17
+[01-Dec-2016 14:29:36 Asia/Manila] PHP Parse error:  syntax error, unexpected ')' in /home/virusserver/public_html/moldex/application/controllers/ajaxreturn.php on line 24
+[01-Dec-2016 14:29:53 Asia/Manila] PHP Parse error:  syntax error, unexpected ')' in /home/virusserver/public_html/moldex/application/controllers/ajaxreturn.php on line 24
+[01-Dec-2016 14:31:57 Asia/Manila] PHP Parse error:  syntax error, unexpected ')' in /home/virusserver/public_html/moldex/application/controllers/ajaxreturn.php on line 24
+[01-Dec-2016 14:38:44 Asia/Manila] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/virusserver/public_html/moldex/application/controllers/ajaxreturn.php on line 24
+[01-Dec-2016 14:38:57 Asia/Manila] PHP Parse error:  syntax error, unexpected '.' in /home/virusserver/public_html/moldex/application/controllers/ajaxreturn.php on line 25
+[02-Dec-2016 14:00:32 Asia/Manila] PHP Parse error:  syntax error, unexpected '}' in /home/virusserver/public_html/moldex/application/controllers/projects.php on line 38
+[02-Dec-2016 14:44:10 Asia/Manila] PHP Fatal error:  Call to undefined function base_ulr() in /home/virusserver/public_html/moldex/application/views/components/projects/layout/projects.php on line 12
+[02-Dec-2016 14:44:26 Asia/Manila] PHP Fatal error:  Call to undefined function base_ulr() in /home/virusserver/public_html/moldex/application/views/components/projects/layout/projects.php on line 12
+[02-Dec-2016 17:15:03 Asia/Manila] PHP Fatal error:  Call to a member function get_location_by_alias() on a non-object in /home/virusserver/public_html/moldex/application/controllers/projects.php on line 22
+[02-Dec-2016 17:39:44 Asia/Manila] PHP Fatal error:  Call to undefined function arrayToObject() in /home/virusserver/public_html/moldex/application/controllers/projects.php on line 54
+[02-Dec-2016 17:40:04 Asia/Manila] PHP Fatal error:  Call to undefined function arrayToObject() in /home/virusserver/public_html/moldex/application/controllers/projects.php on line 54
+[06-Dec-2016 15:50:57 Asia/Manila] PHP Parse error:  syntax error, unexpected '{' in /home/virusserver/public_html/moldex/application/views/components/projects/layout/innerproject.php on line 71
+[07-Dec-2016 12:06:18 Asia/Manila] PHP Fatal error:  Method name must be a string in /home/virusserver/public_html/moldex/application/controllers/projects.php on line 60
+[12-Dec-2016 11:55:26 Asia/Manila] PHP Fatal error:  Call to undefined function post() in /home/virusserver/public_html/moldex/application/controllers/leasing.php on line 90
+[12-Dec-2016 12:08:56 Asia/Manila] PHP Fatal error:  Call to undefined function post() in /home/virusserver/public_html/moldex/application/controllers/leasing.php on line 87
+[12-Dec-2016 14:02:12 Asia/Manila] PHP Parse error:  syntax error, unexpected '$message' (T_VARIABLE) in /home/virusserver/public_html/moldex/application/controllers/leasing.php on line 89
+[12-Dec-2016 14:02:30 Asia/Manila] PHP Parse error:  syntax error, unexpected '$message' (T_VARIABLE) in /home/virusserver/public_html/moldex/application/controllers/leasing.php on line 89
+[12-Dec-2016 17:14:07 Asia/Manila] PHP Fatal error:  Call to undefined function featured_leasing() in /home/virusserver/public_html/moldex/application/views/components/leasing/layout/residential.php on line 68
+[14-Dec-2016 11:41:57 Asia/Manila] PHP Fatal error:  Call to a member function get_publish_careers() on a non-object in /home/virusserver/public_html/moldex/application/controllers/careers.php on line 24
+[14-Dec-2016 13:50:45 Asia/Manila] PHP Parse error:  syntax error, unexpected '=' in /home/virusserver/public_html/moldex/application/controllers/inquiry.php on line 87
+[14-Dec-2016 13:52:38 Asia/Manila] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION) in /home/virusserver/public_html/moldex/application/models/inquiry_model.php on line 31
+[15-Dec-2016 13:23:13 Asia/Manila] PHP Fatal error:  Call to undefined method CI_Upload::do_multi_upload() in /home/virusserver/public_html/moldex/application/controllers/administrator.php on line 599
+[15-Dec-2016 13:23:32 Asia/Manila] PHP Fatal error:  Call to undefined method CI_Upload::do_multi_upload() in /home/virusserver/public_html/moldex/application/controllers/administrator.php on line 599
+[15-Dec-2016 13:23:53 Asia/Manila] PHP Fatal error:  Call to undefined method CI_Upload::do_multi_upload() in /home/virusserver/public_html/moldex/application/controllers/administrator.php on line 599
+[15-Dec-2016 13:26:55 Asia/Manila] PHP Fatal error:  Call to undefined method CI_Upload::do_multi_upload() in /home/virusserver/public_html/moldex/application/controllers/administrator.php on line 599
+[15-Dec-2016 13:31:35 Asia/Manila] PHP Fatal error:  Call to undefined method CI_Upload::do_multi_upload() in /home/virusserver/public_html/moldex/application/controllers/administrator.php on line 599
+[15-Dec-2016 13:33:24 Asia/Manila] PHP Fatal error:  Call to undefined method CI_Upload::get_multi_upload_data() in /home/virusserver/public_html/moldex/application/controllers/administrator.php on line 600
+[15-Dec-2016 15:38:57 Asia/Manila] PHP Fatal error:  Call to undefined method Careers_model::get_all_career() in /home/virusserver/public_html/moldex/application/controllers/careersmanager.php on line 23
+[15-Dec-2016 16:15:57 Asia/Manila] PHP Fatal error:  Call to a member function get_single_career() on a non-object in /home/virusserver/public_html/moldex/application/controllers/careersmanager.php on line 114
+[15-Dec-2016 16:43:24 Asia/Manila] PHP Parse error:  syntax error, unexpected ')' in /home/virusserver/public_html/moldex/application/views/admin/careersmanager/edit.php on line 19
+[15-Dec-2016 16:43:48 Asia/Manila] PHP Parse error:  syntax error, unexpected ')' in /home/virusserver/public_html/moldex/application/views/admin/careersmanager/edit.php on line 19
+[15-Dec-2016 16:45:03 Asia/Manila] PHP Fatal error:  Call to a member function set_rules() on a non-object in /home/virusserver/public_html/moldex/application/controllers/careersmanager.php on line 75
+[15-Dec-2016 16:49:53 Asia/Manila] PHP Fatal error:  Call to undefined method Careers_model::save_career() in /home/virusserver/public_html/moldex/application/controllers/careersmanager.php on line 57
+[16-Dec-2016 15:20:50 Asia/Manila] PHP Parse error:  syntax error, unexpected ')' in /home/virusserver/public_html/moldex/application/views/admin/projectmanager/add.php on line 148
+[16-Dec-2016 15:22:15 Asia/Manila] PHP Parse error:  syntax error, unexpected ')' in /home/virusserver/public_html/moldex/application/views/admin/projectmanager/add.php on line 148
+[16-Dec-2016 15:26:23 Asia/Manila] PHP Parse error:  syntax error, unexpected ')' in /home/virusserver/public_html/moldex/application/views/admin/projectmanager/add.php on line 148
+[16-Dec-2016 16:22:37 Asia/Manila] PHP Parse error:  syntax error, unexpected ')' in /home/virusserver/public_html/moldex/application/helpers/project_helper.php on line 126
+[19-Dec-2016 11:24:22 Asia/Manila] PHP Fatal error:  Call to a member function get_single_page() on a non-object in /home/virusserver/public_html/moldex/application/controllers/projectmanager.php on line 180
+[19-Dec-2016 11:25:28 Asia/Manila] PHP Fatal error:  Call to a member function get_single_page() on a non-object in /home/virusserver/public_html/moldex/application/controllers/projectmanager.php on line 188
+[19-Dec-2016 11:26:10 Asia/Manila] PHP Fatal error:  Call to undefined method Project_model::get_single_page() in /home/virusserver/public_html/moldex/application/controllers/projectmanager.php on line 188
+[19-Dec-2016 11:38:15 Asia/Manila] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/virusserver/public_html/moldex/application/helpers/project_helper.php on line 129
+[19-Dec-2016 15:09:13 Asia/Manila] PHP Fatal error:  Call to undefined method Project_model::delete_page() in /home/virusserver/public_html/moldex/application/controllers/projectmanager.php on line 200
+[19-Dec-2016 16:44:04 Asia/Manila] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE), expecting ',' or ';' in /home/virusserver/public_html/moldex/application/views/admin/houseunitmanager/list.php on line 49
+[19-Dec-2016 16:44:11 Asia/Manila] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE), expecting ',' or ';' in /home/virusserver/public_html/moldex/application/views/admin/houseunitmanager/list.php on line 49
+[20-Dec-2016 14:34:58 Asia/Manila] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS) in /home/virusserver/public_html/moldex/application/controllers/locationsmanager.php on line 64

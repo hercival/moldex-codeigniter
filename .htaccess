@@ -1,0 +1,5 @@
+RewriteEngine On
+RewriteBase /moldex/
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ /moldex/index.php/$1 [L]
